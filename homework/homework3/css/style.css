@@ -1,0 +1,61 @@
+.body{
+    margin: 0px;
+}
+.container{
+    width: 1200px;
+    margin: 0px auto;
+    border: 2px solid red;
+ 
+}
+    
+   
+   
+div:nth-child(3){
+    width: 100px;
+    height: 200;
+    background-color: black;
+    border: 3px solid red;
+    }
+    div:nth-child(8){
+        width: 100px;
+        height: 200;
+        background-color: black;
+        border: 3px solid blue;
+    }
+    div:nth-child(6){
+        width: 200;
+        height: 400;
+        background: green;
+        border: 3px solid blue;
+    }
+   div:nth-child(2){
+        width: 200;
+        height: 400;
+        background: green;
+    }
+    div:nth-child(1){
+        width: 200;
+        height: 400;
+        border: 1px solid red;
+       background: green;
+    }
+    div:nth-child(5){
+        border: 3px solid red;
+    }
+    div:nth-child(7){
+        border: 3px solid red;
+    }
+    div:nth-child(9){
+        border: 3px solid red;
+
+    }
+    div:nth-child(11){
+        border: 3px solid red;
+        
+    }
+    div:nth-child(4){
+        border: 3px solid blue;
+    }
+    div:nth-child(10){
+        border: 3px solid blue;
+    }
