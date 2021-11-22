@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+    width: 1200px;
+    border: 1px solid black;
+    height: 400px;
+    padding: 50px;
+    margin: 0 auto;
+    background: blue;
+    
+
+}
+
+.item_left {
+    border: 1px solid red;
+    width: 400px;
+    display: table-row;
+    
+}
+.item_center {
+    border: 3px solid yellow;
+    width: 400px;
+
+}
+.item_right {
+    border: 3px solid green;
+    width: 400px;
+}
+.item_up {
+    width: auto;
+    height: 200px;
+    background: hotpink;
+
+}
+.item_down {
+    width: auto;
+    height: 200px;
+    background: indigo;
+}
+.item_up img{
+    width: 100%;
+}
