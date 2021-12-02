@@ -1,0 +1,65 @@
+.body {
+    margin: 0;
+}
+/* infi_box start */
+#info_box {
+    height: 700px;
+    width: 1400px;
+    padding: auto;
+    background-image: url(https://vjoy.cc/wp-content/uploads/2020/07/bezymyannyjapap.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    border: 1px solid red;
+    
+}
+.first_cotainer{
+    width: 1000px;
+    height: 200px;
+    border: 1 px solid yellow;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    color: red;
+
+}
+.first_cotainer center {
+    width: 200px;
+    height: 70px;
+    font-size: 50px;
+   
+}
+.second_container{
+   
+    padding-left: 400px;
+    padding-right: 400px;
+    color: tomato;
+    
+}
+.second_container h1 {
+    
+    text-transform: capitalize;
+    font-size: 50px;
+    color: red;
+    letter-spacing: 5px;
+    font-weight: 100;
+    margin: 0;
+}
+
+.second_container h2{
+    margin: 10px;
+    font-size: 70px;
+    text-transform: capitalize;
+    
+    color: red;
+    padding-left: 50px;
+    
+   
+}
+.second_container h3{
+    color: red;
+}
+
+/* info_box end */
